@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KartikVision
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning
+- 🌱 I’m currently working
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me trainee@indovisionservices.in
 
